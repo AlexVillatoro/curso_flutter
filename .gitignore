@@ -1,0 +1,6 @@
+**.dart_tool
+**.idea
+/build
+/build/app
+**/build/app/intermediates/flutter/debug/*
+**/build/app/intermediates/flutter/debug/flutter_assets/*
